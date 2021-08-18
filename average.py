@@ -21,4 +21,4 @@ average = total_wishes/recursion            ##finding the average
 cost = price_of_wishes*average              ##finding the average cost of the character
 
 print("this is how many wishes it took on average: " + str(average) + "\n")     ##printing the average and then the cost
-print("this would cost $" + str())
+print("this would cost $" + str(cost))
